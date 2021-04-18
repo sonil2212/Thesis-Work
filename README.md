@@ -24,5 +24,6 @@
 Machine learning algorithm can be successfully utilized for fMR data analysis.
 
 ## Other Details 
+Institute : International Institute of Technology, Bangalore
 Supervised by : Prof Neelam Sinha (https://www.iiitb.ac.in/faculty/neelam-sinha)
 
