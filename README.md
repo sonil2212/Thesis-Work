@@ -19,3 +19,10 @@
 - As irrelevant features are eliminated, classification accuracy is increased.
 - ROIs (Regions of Interest) are narrowed down to 3 from 7, which contains 70% of the discriminating voxels. The regions are (CALC, LIPS, LIPL).
 - Reverse RFE implementation (ie removing relavant features) resulted in decreased classification accuracy. 
+
+## Conclusion 
+Machine learning algorithm can be successfully utilized for fMR data analysis.
+
+## Other Details 
+Supervised by : Prof Neelam Sinha (https://www.iiitb.ac.in/faculty/neelam-sinha)
+
