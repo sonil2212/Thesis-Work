@@ -1,2 +1,19 @@
 # Thesis
-Objective of thesis to predit the cognitive state of the person based on historical FMRI images. Main focus was to eliminate irrevalent features using univariate and multivariate feature extraction algorithms along with SVM, which resulted to  scale down the ROIs (Region of Interest) from 7 to 3. It helped us to map the part of the brain responsible for a specific task.
+## Objective :
+
+- Analyze part of the brain responsible for performaing a specific task.
+- Analyze brain activation time while performing a specific task.
+
+## Data 
+- Starplus Data : FMRI images of 5 persons seeing the picture and sentence.
+- Probid Data : FMRI images of 5 persons seeing plesant , unpleasant and neutral images (ie while seeing a beautiful scenery or seeing a wound )
+- Further data is processed in tabular format where each row present a task while column represnts a feature, which is called voxel.
+- Starplus and probid data contains 4500 and 219727 voxels respectively.
+ 
+
+## Algorithms and Language
+- Multivariate feature extraction algorithm RFE (recursive feature elimination) along with SVM classifier is used to remove irrelavant features.
+- Matlab is used for writing code and plotting the results.
+
+## Results and findings
+- 
